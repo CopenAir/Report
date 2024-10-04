@@ -5,3 +5,6 @@
 **How it helps**: By meassuring the air polution will be able to do 2 things:  
   1) notify authorities about troubled areas, so they can attempt to correct it.
   2) Develop an app that can notify people in risk groups (like ashtma) about the hightened polution
+
+# problemformulering
+Hvordan kan vi måle luftforuyreningen i københavn, oig alarmere udsatte grupper om forhøjet forurening.
