@@ -7,7 +7,7 @@
   2) Develop an app that can notify people in risk groups (like ashtma) about the hightened polution
 
 # problemformulering
-Hvordan kan vi måle luftforuyreningen i københavn, oig alarmere udsatte grupper om forhøjet forurening.
+Hvordan kan vi måle luftforureningen i københavn, og alarmere udsatte grupper om forhøjet forurening.
 
 # data collection facilitating unit (DCFU)
 A drone with a flight clearance (issued by KPD) of 3-4 meter, with a range of 300-500 meters from base could help greatly in facilitating data collection, and mapping out copenhagen  
