@@ -25,7 +25,7 @@ Select your action:
 Enter Command: 
 ```
 
-Alternatively we can just only use the commands for navigating, and then the user just have to figure those out
+Alternatively we can just only use the commands for navigating, and then the user just have to figure those out, and then not have the "select your action" thing.
 
 ## Choosing Location
 ```txt
