@@ -1,1 +1,21 @@
+AQG level for PM2.5 Annual = 5 PM2.5 (µg/m3)
+AQG level for PM2.5 24 timer = 15 PM2.5 (µg/m3)
+
+AQG level for PM10 Aunnal = 15 PM10 (µg/m3)
+AQG level for PM10 24 timer = 45 PM10 (µg/m3)
+
+AQG level for Ozone Peak season = 60 O3 (µg/m3)
+AQG level for Ozone 8 timer = 100 O3 (µg/m3)
+
+AQG level for Nitrogen dioxide Annual = 10 NO2 (µg/m3)
+AQG level for Nitrogen dioxide 24 timer = 25 NO2 (µg/m3)
+AQG level for Nitrogen dioxide 1 timer = 200 NO2 (µg/m3)
+
+AQG level for Sulfur dioxide 24 timer = 40 SO2 (µg/m3)
+AQG level for Sulfur dioxide 10 minuter = 500 SO2 (µg/m3)
+
+AQG level for Carbon monoxide 24 timer = 4 CO (mg/m3)
+AQG level for Carbon monoxide 8 timer = 10 CO (mg/m3)
+AQG level for Carbon monoxide 1 timer = 35 CO (mg/m3)
+AQG level for Carbon monoxide 15 minute = 100CO (mg/m3)
 
