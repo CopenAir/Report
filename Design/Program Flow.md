@@ -10,6 +10,7 @@ These are just suggestion, feel free to come with different ideas or changes.
 | `h`, `help`         | Displays a list of commands the user can use. Should only be the ones the user can use at this specific screen. We can have a `-a`, `--all` flag for showing a comprehensive list of commands categorized on where they can be used.          |
 | `l`, `location`     | Navigates to the screen where the user can select a location                                                                                                                                                                                  |
 | `g`, `graph`        | Navigates to the graph page. We need to consider whether to do this, or just have the graph show up when the user selects it in the location menu. If we do it this way. If we do it this way we need to save the graph the user last viewed. |
+| `i`, `info`         | Displays info.|
 
 ## Start message
 ```txt
@@ -33,16 +34,16 @@ Alternatively we can just only use the commands for navigating, and then the use
 Page 1 of 5
 ----------------------------------------------
 
- [1] Vej                           05-09-2024
- [2] Vej                           05-09-2024
- [3] Vej                           05-09-2024
- [4] Vej                           05-09-2024
- [5] Vej                           05-09-2024
- [6] Vej                           06-02-2024
- [7] Vej                           12-01-2024
- [8] Vej                           06-01-2024
- [9] Vej                           06-01-2024
- [0] Vej                           06-01-2024
+ [1] Vej              05-09-2022   05-09-2024
+ [2] Vej              05-09-2022   05-09-2024
+ [3] Vej              05-09-2022   05-09-2024
+ [4] Vej              05-09-2022   05-09-2024
+ [5] Vej              05-09-2022   05-09-2024
+ [6] Vej              05-09-2022   06-02-2024
+ [7] Vej              05-09-2022   12-01-2024
+ [8] Vej              05-09-2022   06-01-2024
+ [9] Vej              05-09-2022   06-01-2024
+ [0] Vej              05-09-2022   06-01-2024
  
 ----------------------------------------------
 Enter Command: 
