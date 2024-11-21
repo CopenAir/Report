@@ -17,3 +17,11 @@ https://www.breeze-technologies.de/blog/air-pollution-how-to-convert-between-mgm
 
 **Rapport template**
 https://github.com/krestenlaust/AAU-Typst-Template
+
+**Arduino datasheet**
+https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf 
+
+**Essentials of Arduino boards programming - Farzin Asadi**
+
+**what is GPIO**
+https://www.howtogeek.com/787928/what-is-gpio/
