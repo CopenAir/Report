@@ -25,3 +25,9 @@ https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf
 
 **what is GPIO**
 https://www.howtogeek.com/787928/what-is-gpio/
+
+**Meassuring temperature with thermistors**
+https://www.jameco.com/Jameco/workshop/TechTip/temperature-measurement-ntc-thermistors.html?srsltid=AfmBOorVnmG3CLaktggh4vWNK3unjQ5xj3zu7RV2a8qgCuOHDsTmMXQ0
+
+**Thermistor documentation**
+https://www.elextra.dk/p/ntc-termistor-10kohm-3977k-500mw-40-125c/H58384
